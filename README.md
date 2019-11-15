@@ -4,11 +4,11 @@ Convolution - is the process of obtaining features of an image using a filter of
 
 Filters/Kernels - is a matrix used to extract features and produce feature maps of an image.
 
-Epochs - is the number of times we iterate over the training data set inorder to obtain all the significant features.
+Epochs - is the number of times we iterate over the training data set inorder to obtain all its significant features.
 
 1x1 Convolution - is the process of convolving an image with 1*1 filter . This helps us in reducing the number of channels in an image.
 
-3x3 Convolution - is a process of obtaining significant pixels (features) of an image using a filter of size 3 * 3.
+3x3 Convolution - is a process of obtaining features of an image using a filter of size 3 * 3.
 
 Feature Maps - are a group of features which are extracted from an image using the kernel of desired size.
 
